@@ -1,2 +1,2 @@
 # GD-AI
-Creating an AI that will beat Geometry Dash
+Creating an AI that will DESTROY Geometry Dash
